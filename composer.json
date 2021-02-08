@@ -1,0 +1,10 @@
+{
+    "name": "guandeng/avator",
+    "description": "test",
+    "autoload": {
+      "psr-4": {
+        "Cxp\\Avatar\\": "src"
+      }
+    },
+    "require": {}
+}
